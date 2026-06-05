@@ -1,0 +1,26 @@
+baseURL = "https://cncstartershop.com/"
+languageCode = "en-us"
+title = "CNC Starter Shop"
+theme = "ananke"
+
+[params]
+  description = "Desktop CNC router guides, reviews, and project ideas for woodworkers getting into CNC."
+  author = "Chris Feld"
+  site_logo = ""
+  background_color_class = "bg-near-white"
+  body_classes = "avenir bg-nearest-white"
+  show_reading_time = true
+  ananke_socials = ""
+
+[sitemap]
+  changeFreq = "weekly"
+  priority = 0.5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
