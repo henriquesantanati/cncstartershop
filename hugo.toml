@@ -24,3 +24,6 @@ theme = "ananke"
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[params.ananke]
+  show_social_links = false

@@ -12,4 +12,4 @@ I started this site because the CNC community online tends to assume you already
 
 I write about desktop CNC routers specifically. Machines that fit in a garage or spare room, cost under €2,000, and can produce professional-quality work if you understand their limitations. Some links on this site earn me affiliate commissions at no extra cost to you.
 
-Reach out at chris@cncstartershop.com.
+Got a question? Leave a comment on any post.
