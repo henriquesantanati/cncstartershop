@@ -1,0 +1,3 @@
+Contact: mailto:contact@cncstartershop.com
+Preferred-Languages: en
+Canonical: https://cncstartershop.com/.well-known/security.txt
