@@ -4,6 +4,7 @@ title = "CNC Starter Shop"
 theme = "ananke"
 
 [params]
+  mainSections = ["guides"]
   description = "Desktop CNC router guides, reviews, and project ideas for woodworkers getting into CNC."
   author = "Chris Feld"
   site_logo = ""

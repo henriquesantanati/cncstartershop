@@ -1,0 +1,68 @@
+[
+  {
+    "Keyword": "best desktop cnc for wood under 1000",
+    "Volume_est": 1400,
+    "Competition": "Medium",
+    "Rankable": "No",
+    "Small_Aff_Top5": 0,
+    "SERP": ["General Farm (ourgeneratorworld.com)", "General Farm (wellwhisk.com)", "Store (matterhackers.com)", "General Farm (misec.net)", "Brand (twotrees3d.com)", "General Farm (hometosight.com)", "Brand (sigmatechnik.com)", "General Farm (vintagevinylnews.com)", "Store (matterhackers.com)"],
+    "note": "Dominated by generic review farms. No dedicated CNC affiliate."
+  },
+  {
+    "Keyword": "genmitsu 3018 pro vs 4030",
+    "Volume_est": 500,
+    "Competition": "Low",
+    "Rankable": "Yes",
+    "Small_Aff_Top5": 2,
+    "SERP": ["Small Affiliate (cncrouterinfo.com)", "Brand (genmitsu.com)", "Small Affiliate (cncsourced.com)", "Brand (sainsmart.com)", "Reddit (r/hobbycnc)", "Small Affiliate (woodworkinginsights.com)", "Small Affiliate (clairewestdesign.com)", "Amazon", "General Farm (acfc.org)"]
+  },
+  {
+    "Keyword": "best cnc router for sign making",
+    "Volume_est": 1200,
+    "Competition": "Medium",
+    "Rankable": "Yes",
+    "Small_Aff_Top5": 3,
+    "SERP": ["Small Affiliate (cncsourced.com)", "General Farm (boundbyflame.com)", "Small Affiliate (woodnbits.com)", "General Farm (onlycaptions.com)", "Small Affiliate (mellowpine.com)", "Brand (omni-cnc.com)", "Small Affiliate (craftedblog.com)", "Brand/Store (cncdynamics.co.uk)", "General Farm (bestcrafts.org)", "General (finepaintinggeneralservices.com)"]
+  },
+  {
+    "Keyword": "onefinity woodworker vs shapeoko 4",
+    "Volume_est": 800,
+    "Competition": "Low",
+    "Rankable": "Yes",
+    "Small_Aff_Top5": 3,
+    "SERP": ["Brand Forum (community.carbide3d.com)", "Brand Forum (forum.onefinitycnc.com)", "Small Affiliate (desktopcncforge.com)", "Small Affiliate (myerswoodshop.com)", "Small Affiliate (cnc-dad.com)", "Small Affiliate (protokonstrukt.com)", "Small Affiliate (cncrouterinfo.com)", "Brand Forum (community.carbide3d.com)", "YouTube", "Small Affiliate (pandaxis.com)"]
+  },
+  {
+    "Keyword": "best desktop cnc for aluminum",
+    "Volume_est": 1100,
+    "Competition": "Medium",
+    "Rankable": "No",
+    "Small_Aff_Top5": 0,
+    "SERP": ["General (dadimprovement.com)", "General Farm (thewearify.com)", "Brand (leadcnc.com)", "Brand (lathemaster.com)", "Medium Media (all3dp.com)", "General Farm (boundbyflame.com)", "General (axeandanswered.com)", "General Farm (bestindustrialtools.org)", "General Farm (bestcleaningtools.com)", "Manufacturer (fabcon.com)"],
+    "note": "Material-specific query dominated by brands and generic farms. No dedicated CNC affiliate."
+  },
+  {
+    "Keyword": "best budget cnc router under 500",
+    "Volume_est": 1000,
+    "Competition": "Medium",
+    "Rankable": "Yes",
+    "Small_Aff_Top5": 5,
+    "SERP": ["Small Affiliate (diy-woodprojects.com)", "Small Affiliate (cncrouterinfo.com)", "Small Affiliate (woodnbits.com)", "Small Affiliate (cncrouterinfo.com)", "Small Affiliate (cncsourced.com)", "Small Affiliate (diy-woodprojects.com)", "Small Affiliate (cncsourced.com)", "General (toolsradar.com)", "General (modernhometools.com)", "Small Affiliate (3dwithus.com)"]
+  },
+  {
+    "Keyword": "foxalien masuter 4040 review",
+    "Volume_est": 400,
+    "Competition": "Low",
+    "Rankable": "Yes",
+    "Small_Aff_Top5": 5,
+    "SERP": ["Small Affiliate (cncrouterinfo.com)", "Small Affiliate (electroreview.info)", "Small Affiliate (bestcncmachines.com)", "Small Affiliate (cncrouterinfo.com)", "Small Affiliate (woodworkinginsights.com)", "Small Affiliate (jamesdeandesigns.com)", "Small Affiliate (ralphsway.com)", "General (toolsgrabber.com)", "Forum (ukworkshop.co.uk)", "Brand (foxalien.com)"]
+  },
+  {
+    "Keyword": "cnc vs laser cutter for wood projects",
+    "Volume_est": 900,
+    "Competition": "Medium",
+    "Rankable": "Yes",
+    "Small_Aff_Top5": 2,
+    "SERP": ["Big Media (slashgear.com)", "Small Blog (asayasculpture.com)", "Small Affiliate (cncsourced.com)", "Brand/Info (cncpioneer.com)", "Brand (mimowork.com)", "General (toolsradar.com)", "Small Blog (qlycheecrafts.com)", "Manufacturer (yijinsolution.com)", "Brand (redsaillaser.com)", "Brand (laserpecker.net)"]
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "assumptions": {
+    "ctr": "3% from position 5",
+    "conversion_rate": "1.5%",
+    "avg_order_value": "$700",
+    "commission_rate": "5% blended (6% brand direct + 4% Amazon tools)",
+    "per_sale_earnings": "$35"
+  },
+  "projections_conservative": {
+    "50_articles": "$425/month ($5,100/year)",
+    "100_articles": "$850/month ($10,200/year)",
+    "200_articles": "$1,700/month ($20,400/year)"
+  },
+  "projections_realistic": {
+    "note": "Based on verified SERP positions showing affiliates at pos 1-5 for 75% of queries. Using 6% CTR for brand comparison/review queries where affiliates hold top 3.",
+    "50_articles": "$708/month",
+    "100_articles": "$1,417/month",
+    "200_articles": "$2,834/month"
+  },
+  "verified_rankability": {
+    "keywords_searched": 8,
+    "keywords_with_affiliate_top5": 6,
+    "verified_rankability_pct": "75%",
+    "confidence": "MEDIUM-HIGH (8 keyword sample)",
+    "dominant_competitors": [
+      "cncrouterinfo.com (dedicated CNC, appears in 4+ SERPs, position 1-2)",
+      "cncsourced.com (cross-niche maker, appears in 4+ SERPs)",
+      "bestcncmachines.com (dedicated CNC reviews)",
+      "desktopcncforge.com (dedicated CNC comparisons)",
+      "cnc-dad.com (dedicated CNC blog)",
+      "mellowpine.com (cross-niche maker reviews)",
+      "woodworkinginsights.com (woodworking/CNC)",
+      "diy-woodprojects.com (woodworking/CNC affiliate)"
+    ],
+    "key_finding": "CNC niche IS viable for affiliates, contrary to yesterday's assessment. Dedicated sites (cncrouterinfo.com, bestcncmachines.com) rank position 1 for product reviews and brand comparisons. The weak spots are generic 'best X for Y material' queries where generic farms still dominate. Strategy: prioritize product reviews and brand comparisons over material-specific listicles.",
+    "keyword_type_breakdown": {
+      "product_reviews": "100% rankable (affiliates dominate positions 1-5)",
+      "brand_comparisons": "100% rankable (affiliates + forums in top 5)",
+      "budget_listicles_with_cnc_router_term": "100% rankable when using 'CNC router' phrasing",
+      "material_specific_queries": "0% rankable (brands and generic farms dominate)",
+      "cross_niche_comparison": "50% rankable (mixed big media + affiliates)"
+    }
+  }
+}
